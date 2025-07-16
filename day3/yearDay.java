@@ -10,7 +10,7 @@ public class yearDay {
             leapYear = (diff/4)+1;
             if ((to%4)==0)
              {
-                leapYear = (diff/4);
+                leapYear = (diff/4)+1;
              }
         }
         

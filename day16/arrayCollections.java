@@ -1,6 +1,8 @@
-package day13;
+package day16;
 import java.util.*;
-public class linkedList {
+import java.util.ArrayList;
+
+public class arrayCollections {
     public static void main(String[] args) {
         ArrayList<Integer> alist = new ArrayList<Integer>();
         alist.add(4);
